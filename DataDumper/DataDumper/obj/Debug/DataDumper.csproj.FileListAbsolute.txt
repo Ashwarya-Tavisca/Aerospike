@@ -1,0 +1,14 @@
+C:\Users\ajoshi\source\repos\DataDumper\DataDumper\obj\Debug\DataDumper.csprojAssemblyReference.cache
+C:\Users\ajoshi\source\repos\DataDumper\DataDumper\obj\Debug\DataDumper.csproj.CoreCompileInputs.cache
+C:\Users\ajoshi\source\repos\DataDumper\DataDumper\bin\Debug\DataDumper.exe.config
+C:\Users\ajoshi\source\repos\DataDumper\DataDumper\bin\Debug\DataDumper.exe
+C:\Users\ajoshi\source\repos\DataDumper\DataDumper\bin\Debug\DataDumper.pdb
+C:\Users\ajoshi\source\repos\DataDumper\DataDumper\bin\Debug\AerospikeClient.dll
+C:\Users\ajoshi\source\repos\DataDumper\DataDumper\bin\Debug\Neo.Lua.dll
+C:\Users\ajoshi\source\repos\DataDumper\DataDumper\bin\Debug\Neo.Lua.pdb
+C:\Users\ajoshi\source\repos\DataDumper\DataDumper\bin\Debug\Neo.Lua.xml
+C:\Users\ajoshi\source\repos\DataDumper\DataDumper\obj\Debug\DataDumper.csproj.CopyComplete
+C:\Users\ajoshi\source\repos\DataDumper\DataDumper\obj\Debug\DataDumper.exe
+C:\Users\ajoshi\source\repos\DataDumper\DataDumper\obj\Debug\DataDumper.pdb
+C:\Users\ajoshi\source\repos\DataDumper\DataDumper\bin\Debug\CsvHelper.dll
+C:\Users\ajoshi\source\repos\DataDumper\DataDumper\bin\Debug\CsvHelper.xml
